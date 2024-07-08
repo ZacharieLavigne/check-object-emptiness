@@ -1,0 +1,5 @@
+{
+  "name": "@zlavigne/check-object-emptiness",
+  "version": "0.1.0",
+  "exports": "./index.ts"
+}
